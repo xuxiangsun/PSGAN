@@ -2,7 +2,7 @@
 
 **Official** source code of the paper:
 
-G. Cheng, X. Sun, K. Li, L. Guo, and J. Han, "Perturbation Seeking Generative Adversarial Networks: A Defense Framework for Remote Sensing Image Scene Classification", *IEEE Trans. Geosci. Remote Sens.*
+G. Cheng, X. Sun, K. Li, L. Guo, and J. Han, "Perturbation Seeking Generative Adversarial Networks: A Defense Framework for Remote Sensing Image Scene Classification", *IEEE Trans. Geosci. Remote Sens.*, 2021.
 # **Citation**
 ```
 @ARTICLE{9442932,
